@@ -1,1 +1,1 @@
-# Locker---a-password-manger-and-generator-app
+# Locker a password Manger and Generatorapp
