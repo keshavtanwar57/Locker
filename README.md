@@ -1,4 +1,3 @@
-# Note: My main system is broken down, I will be uploading code as soon as it gets fixed. 
 # Locker 
 ## A password Manger and Generator App
 ### Screenshots from the app
